@@ -2,6 +2,8 @@
 
 ## Список Идей и Задач для реализации на Индустриальных Войнах
 
+### Таблицы https://docs.google.com/spreadsheets/d/1qy0bBX3aI34Ht8ejDURQhIAXqeYyil4SZTj5S5iruAM/edit?usp=sharing
+
 ### Примеры
 
 - [ ] Задача
