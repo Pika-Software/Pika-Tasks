@@ -12,6 +12,8 @@
 
 ## Список Задач
 
+- [ ] Написать wrapper MongoDB
+
 - [ ] добавить поддержку нескольких песен в загрузчик
 
 - [ ] добавить новый транспорт ( вскрыть : https://steamcommunity.com/sharedfiles/filedetails/?id=831680603 )
