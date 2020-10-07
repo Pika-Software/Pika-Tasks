@@ -6,3 +6,9 @@
  - [ ] Ускоренный показ новой карты
  - [ ] Показ динамичной погоды с ускорением ( на фоне строительсво завода )
  - [ ] Затухание видео ( появление нового логотипа Индустриальных Войн )
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="https://cdn.discordapp.com/attachments/732912846048067625/762694919462322206/pika.mp4" type="video/mp4">
+  </video>
+</figure>
