@@ -4,11 +4,6 @@
 
 ### [Таблицы] https://docs.google.com/spreadsheets/d/1qy0bBX3aI34Ht8ejDURQhIAXqeYyil4SZTj5S5iruAM/edit?usp=sharing
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRREbkQ0n9Dsl68s-vCsbCQwf80UAZfUkQbxtFPTO-Cb8yhzWygJpNEjTgQi2i_jzJZ6gtGV0zmbdLV/pubhtml?widget=true&amp;headers=false"></iframe>
-</figure>
-
-
 ### Примеры
 
 - [ ] Задача
