@@ -8,3 +8,5 @@
 5. Задачи по ghost_hunt: https://github.com/Pika-Software/Pika-Tasks/blob/master/ghost_hunt.md
 
 ###
+
+[Чекнуть](https://github.com/danielga/gm_sourcenet/)
