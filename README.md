@@ -11,5 +11,3 @@
 1. Баги Индустриальных Войн https://github.com/Pika-Software/Pika-Tasks/blob/master/industrial-bugs.md
 
 ###
-
-[Чекнуть](https://github.com/danielga/gm_sourcenet/)
