@@ -8,7 +8,7 @@
 5. Задачи по ghost_hunt: https://github.com/Pika-Software/Pika-Tasks/blob/master/ghost_hunt.md
 
 ## Остальное
-1. Баги Индустриальных Войн
+1. Баги Индустриальных Войн https://github.com/Pika-Software/Pika-Tasks/blob/master/industrial-bugs.md
 
 ###
 
